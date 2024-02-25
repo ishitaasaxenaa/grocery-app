@@ -10,20 +10,19 @@
 create venv and install dependencies
 
 
+### run flask app
 run `sh run.sh`
-### Will run flask app
 
-
+### Start redis server and celery
 run `sh workers.sh`
-### Starts redis server and celery
 
+### Start celery beat
 #run `sh beat.sh`
-### Starts celery beat
 
 
 ## ************ Frontend  ***************
+### Install dependencies
 run `npm install`
-### installs dependencies
 
+### Start the server
 run `npm run serve`
-###starts the server
