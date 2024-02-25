@@ -1,6 +1,6 @@
-Steps to Run this project
+# Steps to Run this project
 
-Applications to be installed
+## Applications to be installed
 - Redis
 - gtk runtime 3 for weasyprint
 
@@ -11,14 +11,14 @@ create venv and install dependencies
 
 
 run `sh run.sh`
-# Will run flask app
+### Will run flask app
 
 
 run `sh workers.sh`
-# Starts redis server and celery
+### Starts redis server and celery
 
 #run `sh beat.sh`
-# Starts celery beat
+### Starts celery beat
 
 
 ************ Go to Frontend folder ***************
