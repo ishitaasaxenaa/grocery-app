@@ -23,7 +23,7 @@ run `sh workers.sh`
 
 ************ Go to Frontend folder ***************
 run `npm install`
-# installs dependencies
+### installs dependencies
 
 run `npm run serve`
-#starts the server
+###starts the server
