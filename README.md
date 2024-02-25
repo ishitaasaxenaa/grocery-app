@@ -4,7 +4,7 @@
 - Redis
 - gtk runtime 3 for weasyprint
 
-*********** Go to Backend Folder **************
+## *********** Backend  **************
 #open wsl/ubuntu Terminal
 
 create venv and install dependencies
@@ -21,7 +21,7 @@ run `sh workers.sh`
 ### Starts celery beat
 
 
-************ Go to Frontend folder ***************
+## ************ Frontend  ***************
 run `npm install`
 ### installs dependencies
 
