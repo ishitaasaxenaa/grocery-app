@@ -19,6 +19,8 @@ run `sh workers.sh`
 ### Start celery beat
 #run `sh beat.sh`
 
+## DEMO VIDEO 
+https://drive.google.com/file/d/14Ch6d6QY2wHGkrSjmafDTz98BF83s9jx/view
 
 ## ************ Frontend  ***************
 ### Install dependencies
